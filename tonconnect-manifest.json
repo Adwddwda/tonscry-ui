@@ -1,0 +1,11 @@
+{
+  "manifest_version": "0",
+  "name": "TonScry Mini App",
+  "description": "Connect wallet and interact with smart contract on TON",
+  "url": "https://adwddwda.github.io/tonscry-ui",
+  "icons": ["https://adwddwda.github.io/tonscry-ui/icon.png"],
+  "bridge": {
+    "type": "https",
+    "url": "https://bridge.tonapi.io/bridge"
+  }
+}
